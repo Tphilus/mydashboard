@@ -1,5 +1,3 @@
-import ChartImg from "../../assets/Screenshot (2).png";
-import React, { PureComponent } from "react";
 import {
   ResponsiveContainer,
   ComposedChart,
